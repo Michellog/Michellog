@@ -1,50 +1,23 @@
 
-Coordenador de TI com sólida experiência em gestão de operações, equipes e processos tecnológicos, atuando na otimização de fluxos, automação e transformação digital. Focado em resultados, produtividade e inovação contínua.
+Meu nome é Michel, Coordenador de TI com foco em operações, automação, inteligência artificial e transformação digital.
 
-Certificado em Oracle Cloud Infrastructure 2025 Data Science Professional, com experiência em:
+Atuo liderando equipes, otimizando processos e criando soluções inteligentes voltadas para produtividade e resultados de negócio.
 
-- Machine Learning
-- Modelagem Preditiva
-- Data Analytics
-- Inteligência Artificial Generativa
-- Soluções em Oracle Cloud Infrastructure (OCI)
-- Agentes Studio
+Sempre que surge uma oportunidade de automatizar ou melhorar um processo, provavelmente já estou desenvolvendo alguma solução.
 
-Especialista no desenvolvimento de agentes e plugins de IA utilizando:
+Minha principal stack envolve Python, Oracle Cloud, IA Generativa, LLMs, automação e análise de dados.
 
-- Microsoft Copilot Studio
-- Oracle Fusion AI Agents (HCM, SCM, PRC, CX)
-- OpenAI APIs
-- LLMs e automação corporativa
+Tenho experiência com **Oracle Fusion, Microsoft Copilot Studio, agentes de IA e integrações corporativas inteligentes.
 
-Atualmente aprofundando conhecimentos em:
+Atualmente estou aprofundando conhecimentos em Machine Learning, IA Generativa, agentes autônomos e desenvolvimento de soluções com OpenAI, Claude e Grok.
 
-- Python
-- IA Generativa
-- LLMs (OpenAI, Claude, Grok)
-- Automação Inteligente
-- Análise de Dados e Processos
+Já desenvolvi diversos projetos públicos e privados voltados para automação, IA aplicada ao suporte, análise de dados e soluções corporativas.
 
-🛠️ Tech Stack
+Se quiser trocar ideias sobre tecnologia, IA ou automação, será um prazer conectar. 🚀
 
-- Python
-- SQL
-- Oracle Cloud Infrastructure (OCI)
-- Oracle Fusion Applications
-- Microsoft Copilot Studio
-- Streamlit
-- LangChain
-- APIs & Automations
-- Machine Learning
-- Generative AI
+ Curiosidades
 
-Current Focus
-
-- Desenvolvimento de agentes inteligentes corporativos
-- IA aplicada a operações e suporte
-- Automação de processos empresariais
-- Integração entre IA, ERP e análise de dados
-- Soluções com LLMs e agentes autônomos
-
-
-⭐ Sempre explorando novas formas de unir IA, dados e automação para gerar valor ao negócio.
+- Gosto de criar soluções com IA e automação
+- Curto ensinar tecnologia de forma simples
+- Tenho interesse em inovação e transformação digital
+- Hobbies: tecnologia, estudos, academia e projetos pessoais
